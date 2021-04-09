@@ -1,9 +1,9 @@
 # Predicting_Company_Success
 
-In the context of this **End-to-End Machine Learning project** we built a Machine Learning model to predict the success of a startup. We could think of various 
-ways to achieve this, but what we came up with is to predict the total funding amount a company will raise in specific funding rounds
+In the context of this **End-to-End Machine Learning project** I built a Machine Learning model to predict the success of a startup. We could think of various 
+ways to achieve this, but what I came up with is to predict the total funding amount a company will raise in specific funding rounds
 and define its success based on that. We can then also assess whether a company/startup will raise a specific funding round type or not,
-e.g. a Series A or Series B, so as to potentially assess if it is worth investing in a startup for example. For this project we utilised
+e.g. a Series A or Series B, so as to potentially assess if it is worth investing in a startup for example. For this project I utilised
 data from the Crunchbase 2013 dataset (the data is not included here).
 
 <ins>Main stages of the project</ins>
